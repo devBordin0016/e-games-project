@@ -1,0 +1,90 @@
+body {
+    font-family: Robot, sans-serif;
+}
+.navbar {
+    background-color: #222831;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: #a1d14a;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-link.active:hover {
+    color: #fff;
+}
+
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.carousel .carousel-item img {
+    width: 1640px;
+    height: 500px;
+}
+
+.section-title {
+    font-family: "Jersey 15", sans-serif;
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
+.col-md-7 li {
+    color: #fff;
+}
+
+
+#sobre-a-egames {
+    background-color: #424242;
+}
+
+.text-colored {
+    color: #76F58F;
+}
+
+#eventos {
+    background-color: #303030;
+}
+
+#jogos-e-perifericos {
+    background-color: #424242;
+}
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+}
+
+.nav-jogos .nav-link.active,
+#fale-conosco button {
+    background-color: #00215E;
+    color: #fff;
+}
+
+.nav-jogos .nav-link:hover {
+    color: #e15f41;
+}
+
+#fale-conosco {
+    background-color: #303030;
+}
+
+
+
